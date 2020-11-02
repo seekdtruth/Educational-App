@@ -1,0 +1,15 @@
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\bin\iPhone\Debug\SightWords.exe
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\bin\iPhone\Debug\SightWords.pdb
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\optimized\
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\SightWords.csprojAssemblyReference.cache
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\SightWords.csproj.CoreCompileInputs.cache
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\SightWords.csproj.CopyComplete
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\SightWords.exe
+C:\Users\BrookeLoftus\Documents\GitHub\SightWords\SightWords\obj\iPhone\Debug\SightWords.pdb
